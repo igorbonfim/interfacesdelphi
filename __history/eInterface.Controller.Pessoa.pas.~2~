@@ -1,0 +1,37 @@
+unit eInterface.Controller.Pessoa;
+
+interface
+
+uses
+  eInterface.Controller.Interfaces, eInterface.Model.Interfaces;
+
+type
+  TControllerPessoa = class(TInterfacedObject, iControllerPessoa)
+  private
+  public
+    constructor Create;
+    destructor Destroy; override;
+    function Pessoa(Value: TTypePessoa): iPessoa;
+  end;
+
+implementation
+
+{ TControllerPessoa }
+
+constructor TControllerPessoa.Create;
+begin
+
+end;
+
+destructor TControllerPessoa.Destroy;
+begin
+
+  inherited;
+end;
+
+function TControllerPessoa.Pessoa(Value: TTypePessoa): iPessoa;
+begin
+  Result := Self;
+end;
+
+end.

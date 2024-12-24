@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024/12/23 19:51:24.356,=C:\Users\igorj\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/12/23 19:51:56.620,C:\Projetos\Aula Interfaces Delphi\Interfaces.pas=C:\Users\igorj\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/12/23 19:51:56.620,C:\Projetos\Aula Interfaces Delphi\Interfaces.dfm=C:\Users\igorj\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2024/12/23 19:52:22.197,C:\Projetos\Aula Interfaces Delphi\InterfacesProject.dproj=C:\Users\igorj\OneDrive\Documentos\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2024/12/23 19:53:31.193,C:\Projetos\Aula Interfaces Delphi\Principal.pas=C:\Projetos\Aula Interfaces Delphi\Interfaces.pas</Transaction>
+    <Transaction>2024/12/23 19:53:31.193,C:\Projetos\Aula Interfaces Delphi\Principal.dfm=C:\Projetos\Aula Interfaces Delphi\Interfaces.dfm</Transaction>
+    <Transaction>2024/12/23 19:53:48.058,=C:\Projetos\Aula Interfaces Delphi\Unit1.pas</Transaction>
+    <Transaction>2024/12/23 19:58:34.001,=C:\Projetos\Aula Interfaces Delphi\Unit2.pas</Transaction>
+    <Transaction>2024/12/23 19:58:40.267,C:\Projetos\Aula Interfaces Delphi\eInterface.Model.Pessoa.pas=C:\Projetos\Aula Interfaces Delphi\Unit2.pas</Transaction>
+    <Transaction>2024/12/23 19:59:21.286,C:\Projetos\Aula Interfaces Delphi\eInterface.Model.Interfaces.pas=C:\Projetos\Aula Interfaces Delphi\Unit1.pas</Transaction>
+    <Transaction>2024/12/23 20:01:45.822,C:\Projetos\Aula Interfaces Delphi\eInterface.View.pas=C:\Projetos\Aula Interfaces Delphi\Principal.pas</Transaction>
+    <Transaction>2024/12/23 20:01:45.822,C:\Projetos\Aula Interfaces Delphi\eInterface.View.dfm=C:\Projetos\Aula Interfaces Delphi\Principal.dfm</Transaction>
+    <Transaction>2024/12/23 20:01:55.210,C:\Projetos\Aula Interfaces Delphi\eInterface.View.Principal.Principal=C:\Projetos\Aula Interfaces Delphi\eInterface.View.Principal</Transaction>
+    <Transaction>2024/12/23 20:01:55.210,C:\Projetos\Aula Interfaces Delphi\eInterface.View.Principal.dfm=C:\Projetos\Aula Interfaces Delphi\eInterface.View.dfm</Transaction>
+    <Transaction>2024/12/24 00:42:30.675,=C:\Projetos\Aula Interfaces Delphi\Unit1.pas</Transaction>
+    <Transaction>2024/12/24 00:42:42.835,C:\Projetos\Aula Interfaces Delphi\eInterface.Model.PessoaFisica.pas=C:\Projetos\Aula Interfaces Delphi\eInterface.Model.Pessoa.pas</Transaction>
+    <Transaction>2024/12/24 00:43:18.693,C:\Projetos\Aula Interfaces Delphi\eInterface.Model.PessoaJuridica.pas=C:\Projetos\Aula Interfaces Delphi\Unit1.pas</Transaction>
+    <Transaction>2024/12/24 00:58:04.984,=C:\Projetos\Aula Interfaces Delphi\Unit1.pas</Transaction>
+    <Transaction>2024/12/24 00:58:19.850,C:\Projetos\Aula Interfaces Delphi\eInterface.Model.Pessoa.Factory.pas=C:\Projetos\Aula Interfaces Delphi\Unit1.pas</Transaction>
+    <Transaction>2024/12/24 01:19:50.927,=C:\Projetos\Aula Interfaces Delphi\Unit1.pas</Transaction>
+    <Transaction>2024/12/24 01:20:05.416,C:\Projetos\Aula Interfaces Delphi\eInterface.Controller.Pessoa.pas=C:\Projetos\Aula Interfaces Delphi\Unit1.pas</Transaction>
+    <Transaction>2024/12/24 01:21:27.625,=C:\Projetos\Aula Interfaces Delphi\Unit1.pas</Transaction>
+    <Transaction>2024/12/24 01:21:52.108,C:\Projetos\Aula Interfaces Delphi\eInterface.Controller.Interfaces.pas=C:\Projetos\Aula Interfaces Delphi\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

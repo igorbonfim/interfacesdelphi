@@ -1,0 +1,12 @@
+unit eInterface.Controller.Interfaces;
+
+interface
+
+type
+  iControllerPessoa = interface
+  ['{3CFB0513-3266-486A-B9EF-530DB10D97FA}']
+  end;
+
+implementation
+
+end.
